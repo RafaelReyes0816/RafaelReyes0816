@@ -26,3 +26,8 @@ Actualmente trabajo como **Frontend** y estoy ampliando mis conocimientos en **B
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaelReyes0816)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RafaelR10996376)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/385871294316412940)
+
+---
+## 🤝 ¿Quieres colaborar?
+
+Si tienes un proyecto interesante o simplemente quieres conocer más sobre mi trabajo, visita mi [Portafolio Personal](https://portafolio-personal-seven-phi.vercel.app/) 🚀
