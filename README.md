@@ -25,4 +25,4 @@ Además de programar soy editor de video a tiempo parcial, hago ediciones fluida
 
 ## 🤝 ¿Quieres colaborar?
 
-Si tienes un proyecto interesante o simplemente quieres conocer más sobre mi trabajo, visita mi [Portafolio Personal](https://portafolio-personal-seven-phi.vercel.app/)
+Si tienes un proyecto interesante o simplemente quieres conocer más sobre mi trabajo, visita mi [Portafolio Personal](https://rafael-reyes.vercel.app/)
