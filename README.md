@@ -19,9 +19,9 @@ Me considero una persona curiosa, creativa y comprometida con la calidad del cod
 
 ## Estadisticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelReyes0816&show_icons=true&locale=es)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReyes0816&layout=compact&locale=es)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaelReyes0816&locale=es)
+- [GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelReyes0816&show_icons=true&locale=es)
+- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReyes0816&layout=compact&locale=es)
+- [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaelReyes0816&locale=es)
 
 ---
 
@@ -46,16 +46,16 @@ Me considero una persona curiosa, creativa y comprometida con la calidad del cod
 
 **Tienda Friki** - E-commerce de articulos geek (React + ASP.NET Core)
 
-[![tienda-friki-web](https://github-readme-stats.vercel.app/api/pin/?username=RafaelReyes0816&repo=tienda-friki-web)](https://github.com/RafaelReyes0816/tienda-friki-web)
-[![tienda-friki](https://github-readme-stats.vercel.app/api/pin/?username=RafaelReyes0816&repo=tienda-friki)](https://github.com/RafaelReyes0816/tienda-friki)
+- [tienda-friki-web](https://github.com/RafaelReyes0816/tienda-friki-web)
+- [tienda-friki](https://github.com/RafaelReyes0816/tienda-friki)
 
 **Proyecto SIFRA** - Sistema de inventario para autopartes (ASP.NET Core + MySQL)
 
-[![Proyecto-SIFRA](https://github-readme-stats.vercel.app/api/pin/?username=RafaelReyes0816&repo=Proyecto-SIFRA)](https://github.com/RafaelReyes0816/Proyecto-SIFRA)
+- [Proyecto-SIFRA](https://github.com/RafaelReyes0816/Proyecto-SIFRA)
 
 **Panaderia TWII** - Sistema de gestion para panaderia (Laravel)
 
-[![Panaderia-TWII](https://github-readme-stats.vercel.app/api/pin/?username=RafaelReyes0816&repo=Panaderia-TWII)](https://github.com/RafaelReyes0816/Panaderia-TWII)
+- [Panaderia-TWII](https://github.com/RafaelReyes0816/Panaderia-TWII)
 
 ---
 
