@@ -2,10 +2,10 @@
 
 **Desarrollador Full Stack** | Tarija, Bolivia
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RafaelR10996376)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/385871294316412940)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Jaeger1608-v2u)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rafael-reyes.vercel.app/)
+<a href="https://x.com/RafaelR10996376" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://discord.com/users/385871294316412940" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://www.youtube.com/@Jaeger1608-v2u" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://rafael-reyes.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 ---
 
@@ -19,9 +19,9 @@ Me considero una persona curiosa, creativa y comprometida con la calidad del cod
 
 ## Estadisticas de GitHub
 
-- [GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelReyes0816&show_icons=true&locale=es)
-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReyes0816&layout=compact&locale=es)
-- [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaelReyes0816&locale=es)
+- <a href="https://github-readme-stats.vercel.app/api?username=RafaelReyes0816&show_icons=true&locale=es" target="_blank">GitHub Stats</a>
+- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReyes0816&layout=compact&locale=es" target="_blank">Top Langs</a>
+- <a href="https://github-readme-streak-stats.herokuapp.com/?user=RafaelReyes0816&locale=es" target="_blank">GitHub Streak</a>
 
 ---
 
@@ -29,16 +29,16 @@ Me considero una persona curiosa, creativa y comprometida con la calidad del cod
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 
 **Backend**
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 ---
 
@@ -46,16 +46,16 @@ Me considero una persona curiosa, creativa y comprometida con la calidad del cod
 
 **Tienda Friki** - E-commerce de articulos geek (React + ASP.NET Core)
 
-- [tienda-friki-web](https://github.com/RafaelReyes0816/tienda-friki-web)
-- [tienda-friki](https://github.com/RafaelReyes0816/tienda-friki)
+- <a href="https://github.com/RafaelReyes0816/tienda-friki-web" target="_blank">tienda-friki-web</a>
+- <a href="https://github.com/RafaelReyes0816/tienda-friki" target="_blank">tienda-friki</a>
 
 **Proyecto SIFRA** - Sistema de inventario para autopartes (ASP.NET Core + MySQL)
 
-- [Proyecto-SIFRA](https://github.com/RafaelReyes0816/Proyecto-SIFRA)
+- <a href="https://github.com/RafaelReyes0816/Proyecto-SIFRA" target="_blank">Proyecto-SIFRA</a>
 
 **Panaderia TWII** - Sistema de gestion para panaderia (Laravel)
 
-- [Panaderia-TWII](https://github.com/RafaelReyes0816/Panaderia-TWII)
+- <a href="https://github.com/RafaelReyes0816/Panaderia-TWII" target="_blank">Panaderia-TWII</a>
 
 ---
 
@@ -63,8 +63,8 @@ Me considero una persona curiosa, creativa y comprometida con la calidad del cod
 
 Ademas de la programacion, trabajo como editor de video a tiempo parcial, realizando ediciones fluidas y profesionales. Puedes ver algunos de mis trabajos en mi canal de YouTube:
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Jaeger1608-v2u)
+<a href="https://www.youtube.com/@Jaeger1608-v2u" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 ---
 
-*Disponible para nuevos proyectos - [rafael-reyes.vercel.app](https://rafael-reyes.vercel.app/)*
+*Disponible para nuevos proyectos - <a href="https://rafael-reyes.vercel.app/" target="_blank">rafael-reyes.vercel.app</a>*
